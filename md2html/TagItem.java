@@ -1,3 +1,4 @@
+//author Margarita Shimanskaia
 package md2html;
 
 class TagItem {  //Tag index and position inside output string

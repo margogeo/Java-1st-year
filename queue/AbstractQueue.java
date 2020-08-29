@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//Queue based on abstract class
 package queue;
 
 public abstract class AbstractQueue implements Queue {

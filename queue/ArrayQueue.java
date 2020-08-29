@@ -1,5 +1,6 @@
+//author Margarita Shimanskaia
+//Queue based on array
 package queue;
-
 
 public class ArrayQueue extends AbstractQueue {
     private int left = 0;

@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//parsing and calculating arithmetic expressions and processing exceptions
 "use strict";
 
 function error(s) {

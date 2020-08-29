@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//returns for each matrix element min in its row and column
 import java.util.*;
 
 public class ReverseMin {

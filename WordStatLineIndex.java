@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//counts frequency of every word in input string
 import java.util.*;
 import java.io.*;
 

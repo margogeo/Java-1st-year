@@ -1,4 +1,5 @@
-%hard version 14
+%author Margarita Shimanskaia
+%associative array(map) based on balanced binary tree, implements operations on map
 data(Key, Value).
 node(data, Prior, node, node).
 

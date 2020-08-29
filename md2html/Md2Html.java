@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//converts Markdown markup to HTML
 package md2html;
 
 import java.util.*;

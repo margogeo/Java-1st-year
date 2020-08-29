@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//Standart Scanner replacement, based on Reader, works faster than the Standart one on selected tasks(f. e. ReverseMin and WordStat from my GitHub)
 import java.util.*;
 import java.io.*;
 

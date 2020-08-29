@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//Queue based on LinkedList
 package queue;
 
 public class LinkedQueue extends AbstractQueue {

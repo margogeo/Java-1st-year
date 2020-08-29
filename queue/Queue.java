@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//queue interface and its contract
 package queue;
 
 public interface Queue {
